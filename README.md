@@ -1,4 +1,4 @@
-project
+Project
 =======
 
-Contains all python files
+This is a project to print the text string `hello`, written in Python.
